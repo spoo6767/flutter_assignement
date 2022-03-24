@@ -1,4 +1,4 @@
-package com.example.localization
+package com.spurty.localization
 
 import io.flutter.embedding.android.FlutterActivity
 
