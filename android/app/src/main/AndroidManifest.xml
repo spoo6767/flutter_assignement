@@ -1,7 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.spurty.localization">
+    package="com.example.assignmennt">
+    <uses-permission android:name="android.permission.INTERNET" />
    <application
-        android:label="localization"
+        android:label="assignmennt"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
